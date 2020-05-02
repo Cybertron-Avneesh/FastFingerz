@@ -1,8 +1,21 @@
 # fastfingerz
+Android Game in its Initial Stage.
 
-A new Flutter project.
+## What is game all about?
+Player has to tap all numbers (arranged randomly) in Ascending Order and app will record the time you took to do it.
+More time you take less speedy your brain is. 🤷‍
 
-## Getting Started
+## TODOs
+ - Improve UI.
+ - Use SnackBar to Display Score/ time taken by user.
+ - Add Google Sign In
+ - Connect to Firebase.
+ - App Local Storage to store Score and retain Scores when player is Offline.
+ - Create a Global LeaderBoard.
+
+----------------------------------------------------------------------
+
+## Getting Started with Flutter
 
 This project is a starting point for a Flutter application.
 
