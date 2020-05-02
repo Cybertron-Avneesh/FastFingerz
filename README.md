@@ -12,6 +12,12 @@ More time you take less speedy your brain is. 🤷‍
  - Connect to Firebase.
  - App Local Storage to store Score and retain Scores when player is Offline.
  - Create a Global LeaderBoard.
+### Screenshots
+
+|Initial Screeen|Game Over |
+|:---:|:---:|
+|<img src="SS1.jpg" width="340" height="730" />|<img src="SS2.jpg" width="340" height="730" />|
+
 
 ----------------------------------------------------------------------
 
