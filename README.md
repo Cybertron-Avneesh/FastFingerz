@@ -6,12 +6,12 @@ Player has to tap all numbers (arranged randomly) in Ascending Order and app wil
 More time you take less speedy your brain is. 🤷‍
 
 ## TODOs
- - Improve UI.
- - Use SnackBar to Display Score/ time taken by user.
- - Add Google Sign In
- - Connect to Firebase.
- - App Local Storage to store Score and retain Scores when player is Offline.
- - Create a Global LeaderBoard.
+ - [ ] Improve UI.
+ - [ ] Use SnackBar to Display Score/ time taken by user.
+ - [ ] Add Google Sign In
+ - [ ] Connect to Firebase.
+ - [ ] App Local Storage to store Score and retain Scores when player is Offline.
+ - [ ] Create a Global LeaderBoard.
 ### Screenshots
 
 |Initial Screeen|Game Over |
