@@ -4,7 +4,8 @@ Android Game in its Initial Stage.
 ## What is game all about?
 Player has to tap all numbers (arranged randomly) in Ascending Order and app will record the time you took to do it.
 More time you take less speedy your brain is. 🤷‍
-Get this app [here](release_APKs/)
+
+* Get this app [here](https://github.com/Cybertron-Avneesh/FastFingerz/tree/master/realease_APKs)
 
 ## TODOs
  - [ ] Improve UI.
