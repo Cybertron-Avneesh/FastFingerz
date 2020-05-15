@@ -4,6 +4,7 @@ Android Game in its Initial Stage.
 ## What is game all about?
 Player has to tap all numbers (arranged randomly) in Ascending Order and app will record the time you took to do it.
 More time you take less speedy your brain is. 🤷‍
+Get this app [here]()
 
 ## TODOs
  - [ ] Improve UI.
