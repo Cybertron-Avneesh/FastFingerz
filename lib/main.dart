@@ -13,7 +13,7 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-   static List<dynamic> btnIntLabel = [
+  static List<dynamic> btnIntLabel = [
     '1',
     '2',
     '3',
@@ -69,7 +69,7 @@ class _MyAppState extends State<MyApp> {
     Colors.white,
     Colors.white,
   ];
-    void doChanges(int i) {
+  void doChanges(int i) {
     if (shuffled[i].toString() == tempRunner.toString() && tempRunner == 1) {
       shuffled[i] = '';
       tempRunner++;
@@ -122,47 +122,47 @@ class _MyAppState extends State<MyApp> {
                     children: <TableRow>[
                       TableRow(
                         children: <Widget>[
-                          Number(0,doChanges,shuffled,currColor),
-                          Number(1,doChanges,shuffled,currColor),
-                          Number(9,doChanges,shuffled,currColor),
-                          Number(10,doChanges,shuffled,currColor),
-                          Number(2,doChanges,shuffled,currColor),
+                          Number(0, doChanges, shuffled, currColor),
+                          Number(1, doChanges, shuffled, currColor),
+                          Number(9, doChanges, shuffled, currColor),
+                          Number(10, doChanges, shuffled, currColor),
+                          Number(2, doChanges, shuffled, currColor),
                         ],
                       ),
                       TableRow(
                         children: <Widget>[
-                          Number(12,doChanges,shuffled,currColor),
-                          Number(11,doChanges,shuffled,currColor),
-                          Number(3,doChanges,shuffled,currColor),
-                          Number(4,doChanges,shuffled,currColor),
-                          Number(5,doChanges,shuffled,currColor),
+                          Number(12, doChanges, shuffled, currColor),
+                          Number(11, doChanges, shuffled, currColor),
+                          Number(3, doChanges, shuffled, currColor),
+                          Number(4, doChanges, shuffled, currColor),
+                          Number(5, doChanges, shuffled, currColor),
                         ],
                       ),
                       TableRow(
                         children: <Widget>[
-                          Number(6,doChanges,shuffled,currColor),
-                          Number(7,doChanges,shuffled,currColor),
-                          Number(8,doChanges,shuffled,currColor),
-                          Number(14,doChanges,shuffled,currColor),
-                          Number(13,doChanges,shuffled,currColor),
+                          Number(6, doChanges, shuffled, currColor),
+                          Number(7, doChanges, shuffled, currColor),
+                          Number(8, doChanges, shuffled, currColor),
+                          Number(14, doChanges, shuffled, currColor),
+                          Number(13, doChanges, shuffled, currColor),
                         ],
                       ),
                       TableRow(
                         children: <Widget>[
-                          Number(15,doChanges,shuffled,currColor),
-                          Number(16,doChanges,shuffled,currColor),
-                          Number(17,doChanges,shuffled,currColor),
-                          Number(18,doChanges,shuffled,currColor),
-                          Number(19,doChanges,shuffled,currColor),
+                          Number(15, doChanges, shuffled, currColor),
+                          Number(16, doChanges, shuffled, currColor),
+                          Number(17, doChanges, shuffled, currColor),
+                          Number(18, doChanges, shuffled, currColor),
+                          Number(19, doChanges, shuffled, currColor),
                         ],
                       ),
                       TableRow(
                         children: <Widget>[
-                          Number(20,doChanges,shuffled,currColor),
-                          Number(21,doChanges,shuffled,currColor),
-                          Number(22,doChanges,shuffled,currColor),
-                          Number(23,doChanges,shuffled,currColor),
-                          Number(24,doChanges,shuffled,currColor),
+                          Number(20, doChanges, shuffled, currColor),
+                          Number(21, doChanges, shuffled, currColor),
+                          Number(22, doChanges, shuffled, currColor),
+                          Number(23, doChanges, shuffled, currColor),
+                          Number(24, doChanges, shuffled, currColor),
                         ],
                       ),
                       TableRow(children: <Widget>[
@@ -198,7 +198,7 @@ class _MyAppState extends State<MyApp> {
                             child: IconButton(
                               icon: Icon(Icons.refresh),
                               onPressed: () {
-                                main();
+                              
                               },
                               color: Colors.white,
                               splashColor: Colors.amberAccent,
